@@ -11,3 +11,8 @@ esse é um subsubtitulo
 - Essa é a segunda linha da minha lista
 - Essa é a terceira linha da minha lista
 
+---
+
+   1. essa é uma lista numerada 
+   2. essa é uma segunda linha da minha lista numerada
+
